@@ -36,7 +36,7 @@ No installation needed. The user may use the app as it is deployed [here](https:
 
 User may use the app once the page is loaded. User may also download the app as a PWA once on the page.
 
-![App in action](texteditdefault.gif)
+![App in action](textdefault.gif)
 
 ## <a name="contributing"></a>Contributing
 
